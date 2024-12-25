@@ -1,0 +1,22 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Samaher/Samaher.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Samaher/rtl/alu.sv,1735127152,systemVerilog,,/home/it/Samaher/rtl/alu_control.sv,,alu,,,,,,,,
+/home/it/Samaher/rtl/alu_control.sv,1735128068,systemVerilog,,/home/it/Samaher/rtl/branch_controller.sv,,alu_control,,,,,,,,
+/home/it/Samaher/rtl/branch_controller.sv,1735129501,systemVerilog,,/home/it/Samaher/rtl/control_unit.sv,,branch_controller,,,,,,,,
+/home/it/Samaher/rtl/control_unit.sv,1735130227,systemVerilog,,/home/it/Samaher/rtl/data_mem.sv,,control_unit,,,,,,,,
+/home/it/Samaher/rtl/data_mem.sv,1735046608,systemVerilog,,/home/it/Samaher/rtl/data_path.sv,,data_mem,,,,,,,,
+/home/it/Samaher/rtl/data_path.sv,1735130156,systemVerilog,,/home/it/Samaher/rtl/imm_gen.sv,,data_path,,,,,,,,
+/home/it/Samaher/rtl/imm_gen.sv,1735046639,systemVerilog,,/home/it/Samaher/rtl/inst_mem.sv,,imm_gen,,,,,,,,
+/home/it/Samaher/rtl/inst_mem.sv,1735049555,systemVerilog,,/home/it/Samaher/rtl/main_control.sv,,inst_mem,,,,,,,,
+/home/it/Samaher/rtl/main_control.sv,1735130190,systemVerilog,,/home/it/Samaher/rtl/program_counter.sv,,main_control,,,,,,,,
+/home/it/Samaher/rtl/program_counter.sv,1735033240,systemVerilog,,/home/it/Samaher/rtl/reg_file.sv,,program_counter,,,,,,,,
+/home/it/Samaher/rtl/reg_file.sv,1735033191,systemVerilog,,/home/it/Samaher/rtl/rv32i_top.sv,,reg_file,,,,,,,,
+/home/it/Samaher/rtl/rv32i_top.sv,1735130045,systemVerilog,,/home/it/Samaher/tb/rv32i_top_tb.sv,,rv32i_top,,,,,,,,
+/home/it/Samaher/tb/alu_tb.sv,1735042017,systemVerilog,,,,alu_tb,,,,,,,,
+/home/it/Samaher/tb/data_path_tb.sv,1735112966,systemVerilog,,,,data_path_tb,,,,,,,,
+/home/it/Samaher/tb/program_counter_tb.sv,1735031945,systemVerilog,,,,program_counter_tb,,,,,,,,
+/home/it/Samaher/tb/reg_file_tb.sv,1735033224,systemVerilog,,,,reg_file_tb,,,,,,,,
+/home/it/Samaher/tb/rv32i_top_tb.sv,1735117815,systemVerilog,,,,rv32i_top_tb,,,,,,,,
