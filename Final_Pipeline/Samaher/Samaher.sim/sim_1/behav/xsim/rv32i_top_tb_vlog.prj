@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../rtl/alignment_unit.sv" \
+"../../../../rtl/alu.sv" \
+"../../../../rtl/alu_control.sv" \
+"../../../../rtl/branch_controller.sv" \
+"../../../../rtl/control_unit.sv" \
+"../../../../rtl/data_mem.sv" \
+"../../../../rtl/data_path.sv" \
+"../../../../rtl/imm_gen.sv" \
+"../../../../rtl/inst_mem.sv" \
+"../../../../rtl/main_control.sv" \
+"../../../../rtl/program_counter.sv" \
+"../../../../rtl/reg_file.sv" \
+"../../../../rtl/rv32i_top.sv" \
+"../../../../tb/rv32i_top_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
