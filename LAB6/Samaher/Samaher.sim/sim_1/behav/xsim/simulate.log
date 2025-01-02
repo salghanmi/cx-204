@@ -1,0 +1,25 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+                   0 clk=0 reset_n=0 opcode=0010011 fun3=000 fun7_5=0 alu_ctrl=0000 reg_write=1 mem_write=0 mem_to_reg=0 alu_src=1 branch=0
+                   5 clk=1 reset_n=0 opcode=0010011 fun3=000 fun7_5=0 alu_ctrl=0000 reg_write=1 mem_write=0 mem_to_reg=0 alu_src=1 branch=0
+                  10 clk=0 reset_n=1 opcode=0010011 fun3=000 fun7_5=0 alu_ctrl=0000 reg_write=1 mem_write=0 mem_to_reg=0 alu_src=1 branch=0
+                  15 clk=1 reset_n=1 opcode=0010011 fun3=000 fun7_5=0 alu_ctrl=0000 reg_write=1 mem_write=0 mem_to_reg=0 alu_src=1 branch=0
+                  20 clk=0 reset_n=1 opcode=0010011 fun3=000 fun7_5=0 alu_ctrl=0000 reg_write=1 mem_write=0 mem_to_reg=0 alu_src=1 branch=0
+                  25 clk=1 reset_n=1 opcode=0110011 fun3=000 fun7_5=0 alu_ctrl=0000 reg_write=1 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  30 clk=0 reset_n=1 opcode=0110011 fun3=000 fun7_5=0 alu_ctrl=0000 reg_write=1 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  35 clk=1 reset_n=1 opcode=1100011 fun3=000 fun7_5=0 alu_ctrl=1000 reg_write=0 mem_write=0 mem_to_reg=x alu_src=0 branch=1
+                  40 clk=0 reset_n=1 opcode=1100011 fun3=000 fun7_5=0 alu_ctrl=1000 reg_write=0 mem_write=0 mem_to_reg=x alu_src=0 branch=1
+                  45 clk=1 reset_n=1 opcode=1110011 fun3=000 fun7_5=0 alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  50 clk=0 reset_n=1 opcode=1110011 fun3=000 fun7_5=0 alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  55 clk=1 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  60 clk=0 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  65 clk=1 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  70 clk=0 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  75 clk=1 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  80 clk=0 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  85 clk=1 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  90 clk=0 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                  95 clk=1 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                 100 clk=0 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+                 105 clk=1 reset_n=1 opcode=xxxxxxx fun3=xxx fun7_5=x alu_ctrl=0000 reg_write=0 mem_write=0 mem_to_reg=0 alu_src=0 branch=0
+$finish called at time : 110 ns : File "/home/it/Samaher/tb/rv32i_top_tb.sv" Line 61

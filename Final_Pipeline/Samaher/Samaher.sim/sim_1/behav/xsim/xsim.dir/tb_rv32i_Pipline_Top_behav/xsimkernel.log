@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_rv32i_Pipline_Top_behav/xsimk -simmode gui -wdb tb_rv32i_Pipline_Top_behav.wdb -simrunnum 0 -socket 40001
+Design successfully loaded
+Design Loading Memory Usage: 33156 KB (Peak: 33628 KB)
+Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 119252 KB (Peak: 172424 KB)
+Simulation CPU Usage: 4060 ms
